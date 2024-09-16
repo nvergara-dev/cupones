@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+body{
+  font-family: "roboto", Arial, Helvetica, sans-serif;
+}
+
+header{
+  background-color: #28A745;
+}
+
+.marca_card{
+  margin: 0%;
+}
+.precios{
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.7rem;
+  padding: 0.3rem;
+}
+
+.precio_normal{
+  color: #707070;
+  font-size: 1rem;
+  margin: 0%;
+  padding: 0%;
+}
+.precio_oferta{
+  color: #28A745;
+  font-size: 1.2rem;
+  margin: 0%;
+  padding: 0%;
+}
+hr{
+  margin: 0%;
+}
+
+#espaciado{
+  padding-bottom: 1rem;
+}
+
+form{
+  background-color: #28A745; 
+}
+
+footer{
+  color: #707070;
+}
